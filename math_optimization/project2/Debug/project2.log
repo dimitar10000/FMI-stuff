@@ -1,0 +1,3 @@
+﻿  sauce.cpp
+C:\Users\offline\source\repos\project2\project2\sauce.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+  project2.vcxproj -> C:\Users\offline\source\repos\project2\Debug\project2.exe
