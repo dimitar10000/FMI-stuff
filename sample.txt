@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a = 5;
+    int b = (10 + 3) * (4 ^ 2) ^ 3;
+    int temp;
+
+    cout << "Before swapping.\n";
+    cout << "a = " << a << ", b = " << b << '\n';
+
+    temp = a;
+    a = b;
+    b = temp;
+
+    cout << "\nAfter swapping.\n";
+    cout << "a = " << a << ", b = " << b << '\n';
+
+    bool c = true || 2 > 5 && ab || 3 + 5 == 10;
+
+    return 0;
+}

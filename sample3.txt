@@ -1,0 +1,22 @@
+#include <iostream>
+#include "aa.h"
+
+using namespace std;
+
+class Animal {
+
+class Dog {
+
+}
+
+string name;
+
+public:
+Animal(string name2) {
+name = name2;
+}
+
+void print();
+void eat(double amount);
+
+}
