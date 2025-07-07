@@ -1,0 +1,11 @@
+﻿  parser.cpp
+C:\Users\offline\Desktop\compiler\parser.cpp(236,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\offline\Desktop\compiler\parser.cpp(572,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\offline\Desktop\compiler\parser.cpp(655,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\offline\Desktop\compiler\parser.cpp(770,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\offline\Desktop\compiler\parser.cpp(775,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\offline\Desktop\compiler\parser.cpp(823,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\offline\Desktop\compiler\parser.cpp(1190,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\offline\Desktop\compiler\parser.cpp(85): warning C4715: 'Parser::parse_include_expr': not all control paths return a value
+C:\Users\offline\Desktop\compiler\parser.cpp(228): warning C4715: 'precedence': not all control paths return a value
+  compiler.vcxproj -> C:\Users\offline\Desktop\compiler\Debug\compiler.exe
